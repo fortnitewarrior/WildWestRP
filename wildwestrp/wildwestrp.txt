@@ -1,0 +1,7 @@
+"wildwestrp"
+{
+	"base"		"nutscript"
+	"title"		"Wild West RP"
+	"author"	"Adaster"
+	"menusystem" "1"
+}
